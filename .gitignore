@@ -26,3 +26,6 @@ DerivedData
 test_output/
 .fastlane/report.xml
 .fastlane/README.md
+
+fastlane/report.xml
+*.framework.zip
